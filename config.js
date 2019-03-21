@@ -2,7 +2,7 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
+config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/420coupe/shell-map/aeon/aeon-nodes.json';
 
 config.serverHost = '0.0.0.0';
 
@@ -14,7 +14,7 @@ config.statsUpdateInterval = 15;
 
 config.nodeTTL = 3600;
 
-config.rpcPort = 11898;
+config.rpcPort = 11180;
 
 config.queueReseedDelay = 60;
 
